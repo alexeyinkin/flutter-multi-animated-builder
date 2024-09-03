@@ -1,0 +1,14 @@
+name: multi_animated_builder
+description: An AnimatedBuilder that takes a list of Listenable and rebuilds when any of them fire.
+version: 0.1.0
+repository: https://github.com/alexeyinkin/flutter-multi-animated-builder
+
+environment:
+  sdk: ^3.0.0
+  flutter: '>=3.0.0'
+
+dependencies:
+  flutter: { sdk: flutter }
+
+dev_dependencies:
+  total_lints: ^3.4.0
